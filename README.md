@@ -1,3 +1,3 @@
 <div>
-  ![pdf] ([mercedes-benz-data-analysis.pdf](https://github.com/dzhanzakov/Mercedes-Benz-Data-Analysis/blob/master/mercedes-benz-data-analysis.pdf))
+  ![alt text] (https://github.com/dzhanzakov/Mercedes-Benz-Data-Analysis/blob/master/revenue%20by%20regions%20visual_page-0001.jpg)
 </div>
